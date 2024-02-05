@@ -100,6 +100,8 @@ const Modal: FunctionComponent<ModalProps> = ({
                     onClick={handleSubmit}
                   />
                 </div>
+                {/* Footer */}
+                {footer}
               </div>
             </div>
           </div>
