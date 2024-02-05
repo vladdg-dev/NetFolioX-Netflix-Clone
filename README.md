@@ -1,5 +1,3 @@
-# Airbnb Clone Readme
-
 ## Project Overview
 
 This Airbnb clone is a highly optimized web application designed for lightning-fast loading times. It incorporates cutting-edge technologies to provide an efficient and seamless user experience. The primary technologies used in this project include:
