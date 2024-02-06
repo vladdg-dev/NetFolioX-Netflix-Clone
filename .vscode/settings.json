@@ -1,3 +1,4 @@
 {
-  "cSpell.words": ["tailwindcss", "zustand"]
+  "cSpell.words": ["tailwindcss", "zustand"],
+  "cSpell.ignoreWords": ["NEXTAUTH", "prismadb"]
 }
